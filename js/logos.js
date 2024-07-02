@@ -70,13 +70,6 @@ export default [
     id: 10,
   },
   {
-    name: "Lahaye",
-    path: "../assets/logos/lahaye.svg",
-    alt: "Lahaye Logo",
-    background: "",
-    id: 11,
-  },
-  {
     name: "Leen Olives",
     path: "../assets/logos/leenOlives.svg",
     alt: "Leen Olives Logo",
